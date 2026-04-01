@@ -41,7 +41,7 @@ Crie um arquivo `style.css` e vincule-o ao seu HTML. A estilização deve contem
 1. Crie uma pasta para o seu projeto no seu computador.
 2. Desenvolva o código HTML focando na semântica básica.
 3. Aplique o CSS para dar identidade visual à página, respeitando o fluxo normal dos elementos (sem uso de layouts complexos como Flexbox).
-4. O projeto deve ser visualizado corretamente em qualquer navegador moderno, que interpretará as tags e estilos para exibir a página [6].
+4. O projeto deve ser visualizado corretamente em qualquer navegador moderno, que interpretará as tags e estilos para exibir a página.
 
 ---
 
